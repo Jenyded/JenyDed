@@ -1,6 +1,3 @@
-# Privacy Policy
-Политика конфиденциальности
-
 <h1 style = "color: blue"><p>Privacy Policy</p></h1>
 <p>JenyDed built the Formless app as a Free app. This SERVICE is provided by JenyDed at no cost and is intended for use as is.</p>
 <p>This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.</p>
